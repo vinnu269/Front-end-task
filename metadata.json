@@ -1,0 +1,5 @@
+{
+  "name": "User Profile Management",
+  "description": "A web application to manage user profiles, including basic information, education, skills, and work experience. Users can be added, viewed, and deleted, with data stored locally.",
+  "requestFramePermissions": []
+}
